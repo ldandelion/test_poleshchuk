@@ -1,3 +1,2 @@
-# test_poleshchuk
-DE course
-First commit
+Полещук Валерия Анатольевна
+Хобби - плаванье
